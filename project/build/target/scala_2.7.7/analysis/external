@@ -1,0 +1,4 @@
+#External Dependencies
+#Mon Dec 12 14:20:44 EET 2011
+/home/sriky/Projects/lift/tutorials/work/simply_lift/samples/shopwithme/project/boot/scala-2.7.7/lib/scala-library.jar=LiftProject.scala
+/home/sriky/Projects/lift/tutorials/work/simply_lift/samples/shopwithme/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5/sbt_2.7.7-0.7.5.jar=LiftProject.scala

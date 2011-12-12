@@ -1,0 +1,15 @@
+#Source Hashes
+#Mon Dec 12 14:21:22 EET 2011
+src/main/scala/code/comet/CometCart.scala=09e99a3b812919a64f5fba0fd75831b70b4cd113
+src/main/scala/code/snippet/SendMail.scala=7c96ee38439047222c30af2b026995b1138a842b
+src/main/scala/code/snippet/SearchPage.scala=40a0f0b3fabee4ec03b6fef85bfc8930b38d5759
+src/main/scala/code/snippet/AnItemPage.scala=b6d5e802e1ba9c4668bdf3f5774ab98fd0e98204
+src/main/scala/code/snippet/AllItemsPage.scala=990cd887b87568295ed2e0d1128f0cc7ea7b6445
+src/main/scala/code/lib/Cart.scala=9db54f3addcf50c13c61f1a31aa6f7bc0357a788
+src/main/scala/code/model/Item.scala=5e2ed3fe137047b211ab7f71f7c785548af85c61
+src/main/scala/bootstrap/liftweb/Boot.scala=65cb566b65072d2f234c4abf1a28881bd7c0e1ff
+src/main/scala/code/snippet/Link.scala=c8d10fcbc41ea9601853a550dd53297c515e2c8d
+src/main/scala/code/comet/WhatPage.scala=64a35ff5d315f67a33f629801907dc09f6f5aa74
+src/main/scala/code/snippet/AddRandom.scala=99c2982cd61eeefbffd515cbccae400f499a4e6d
+src/main/scala/code/lib/ShareCart.scala=4aafa8d5dbae13021c3eac7c3f8011b7349fcb8a
+src/main/scala/code/comet/ListPages.scala=85abfc828d219ccd11970fa4fb73be28c0703f1d

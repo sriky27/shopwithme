@@ -1,0 +1,15 @@
+#Source Dependencies
+#Mon Dec 12 14:21:22 EET 2011
+src/main/scala/code/comet/CometCart.scala=src/main/scala/code/snippet/Link.scala\:src/main/scala/code/snippet/AllItemsPage.scala\:src/main/scala/code/snippet/AnItemPage.scala\:src/main/scala/code/snippet/AddRandom.scala\:src/main/scala/code/lib/ShareCart.scala
+src/main/scala/code/snippet/SendMail.scala=
+src/main/scala/code/snippet/SearchPage.scala=src/main/scala/bootstrap/liftweb/Boot.scala
+src/main/scala/code/snippet/AnItemPage.scala=src/main/scala/code/snippet/AllItemsPage.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+src/main/scala/code/snippet/AllItemsPage.scala=src/main/scala/code/snippet/SearchPage.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+src/main/scala/code/lib/Cart.scala=src/main/scala/code/snippet/AllItemsPage.scala\:src/main/scala/code/snippet/AnItemPage.scala\:src/main/scala/code/snippet/AddRandom.scala\:src/main/scala/code/lib/ShareCart.scala\:src/main/scala/code/comet/CometCart.scala
+src/main/scala/code/model/Item.scala=src/main/scala/code/snippet/AllItemsPage.scala\:src/main/scala/code/snippet/AnItemPage.scala\:src/main/scala/code/snippet/SearchPage.scala\:src/main/scala/code/lib/Cart.scala\:src/main/scala/code/snippet/AddRandom.scala\:src/main/scala/code/comet/CometCart.scala
+src/main/scala/bootstrap/liftweb/Boot.scala=
+src/main/scala/code/snippet/Link.scala=
+src/main/scala/code/comet/WhatPage.scala=src/main/scala/code/comet/ListPages.scala
+src/main/scala/code/snippet/AddRandom.scala=
+src/main/scala/code/lib/ShareCart.scala=src/main/scala/code/snippet/Link.scala\:src/main/scala/bootstrap/liftweb/Boot.scala
+src/main/scala/code/comet/ListPages.scala=
